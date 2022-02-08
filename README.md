@@ -1,2 +1,0 @@
-# istta
-plantilla 
